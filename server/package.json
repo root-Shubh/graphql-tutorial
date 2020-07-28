@@ -15,10 +15,11 @@
   "bugs": {
     "url": "https://github.com/root-Shubh/graphql-tutorial/issues"
   },
-  "homepage": "https://github.com/root-Shubh/graphql-tutorial#readme",
+  "homepage": "https://github.com/rolot-Shubh/graphql-tutorial#readme",
   "dependencies": {
     "express": "^4.17.1",
     "express-graphql": "^0.11.0",
-    "graphql": "^15.3.0"
+    "graphql": "^15.3.0",
+    "lodash": "^1.0.0"
   }
 }
